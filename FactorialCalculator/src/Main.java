@@ -9,7 +9,7 @@ public class Main {
 //        SuperFC superFC = new SuperFC();
 //        int result = superFC.calculateFactorial(5);
 //        FactorialCalculator factorialCalculator = new FactorialCalculator();
-//        System.out.println(result);
+//
 
         Car bmw = new Car();
 
